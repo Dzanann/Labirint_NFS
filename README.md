@@ -1,0 +1,2 @@
+# Labirint_NFS
+labirint
